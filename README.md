@@ -1,6 +1,6 @@
 # CPPND: Capstone Snake Game
 
-This is an extended verion of the starter repo for the Capstone project in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). I have added the following features:
+This is an extended verion of the starter repo for the Capstone project. I have added the following features:
 * Ability to pause/resume the game.
 * Random obstacles with the ability to change every time a player eats the food.
 * A GUI to let the player know how to start, resume and pause the game.
