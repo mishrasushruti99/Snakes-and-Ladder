@@ -7,9 +7,7 @@ This is an extended verion of the starter repo for the Capstone project. I have 
 
 <img src="snake_game_new.gif"/>
 
-The Capstone Project gives you a chance to integrate what you've learned throughout this program. This project will become an important part of your portfolio to share with current and future colleagues and employers.
-
-In this project, you can build your own C++ application or extend this Snake game, following the principles you have learned throughout this Nanodegree Program. This project will demonstrate that you can independently create applications using a wide range of C++ features.
+In this project, I build my own C++ application or extend this Snake game, following the principles of OOPS in c++.
 
 ## Dependencies for Running Locally
 * cmake >= 3.7
